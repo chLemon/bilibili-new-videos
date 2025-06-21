@@ -19,4 +19,4 @@ https://github.com/SocialSisterYi/bilibili-API-collect?tab=readme-ov-file
 
 B站
 
-
+忽然发现爬虫有法律风险，爬虫部分还是不加进来了
